@@ -117,10 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="TextBox4.Text" xml:space="preserve">
-    <value>&lt;invoke name="Add" returntype="xml"&gt;&lt;arguments&gt;&lt;number&gt;8&lt;/number&gt;&lt;string&gt;CMP/CG_TEMPLATE/TOP_LEFT.ft&lt;/string&gt;&lt;true/&gt;&lt;string&gt;&lt;/string&gt;&lt;string&gt;&lt;![CDATA[ &lt;templateData&gt;&lt;componentData id="f0"&gt;&lt;data id="text" value="Live From Mumbai" /&gt;&lt;/componentData&gt;&lt;/templateData&gt;]]&gt;&lt;/string&gt;&lt;/arguments&gt;&lt;/invoke&gt;</value>
-  </data>
-  <data name="TextBox5.Text" xml:space="preserve">
-    <value>&lt;invoke name="SetData" returntype="xml"&gt;&lt;arguments&gt;&lt;array&gt;&lt;property id="0"&gt;&lt;number&gt;8&lt;/number&gt;&lt;/property&gt;&lt;/array&gt;&lt;string&gt;&lt;![CDATA[&lt;templateData&gt;&lt;componentData id="f0"&gt;&lt;data id="text" value="vimlesh kumar" /&gt;&lt;/componentData&gt;&lt;/templateData&gt;]]&gt;&lt;/string&gt;&lt;/arguments&gt;&lt;/invoke&gt;</value>
+  <data name="flashControl.OcxState" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACFTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5BeEhvc3QrU3RhdGUBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAawEAAAIB
+        AAAAAQAAAAAAAAAAAAAAAFYBAABnVWZVAA4AANgTAADYEwAACAACAAAAAAAIAAAAAAAIAAAAAAAIAA4A
+        AABXAGkAbgBkAG8AdwAAAAgABgAAAC0AMQAAAAgABgAAAC0AMQAAAAgACgAAAEgAaQBnAGgAAAAIAAIA
+        AAAAAAgABgAAAC0AMQAAAAgAAAAAAAgAAgAAAAAACAAQAAAAUwBoAG8AdwBBAGwAbAAAAAgABAAAADAA
+        AAAIAAQAAAAwAAAACAACAAAAAAAIAAAAAAAIAAIAAAAAAA0AAAAAAAAAAAAAAAAAAAAAAAgABAAAADEA
+        AAAIAAQAAAAwAAAACAAAAAAACAAEAAAAMAAAAAgACAAAAGEAbABsAAAACAAMAAAAZgBhAGwAcwBlAAAA
+        CAAMAAAAZgBhAGwAcwBlAAAACAAIAAAAMQAwADcAAAAIAAwAAABzAGMAYQBsAGUAAAAIAAYAAAAtADEA
+        AAAL
+</value>
   </data>
 </root>

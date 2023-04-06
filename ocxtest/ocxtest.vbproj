@@ -78,15 +78,8 @@
       <EmbedInteropTypes>True</EmbedInteropTypes>
       <HintPath>C:\Program Files (x86)\Doordarshan\CasparMediaPlaybackSetup\Interop.ShockwaveFlashObjects.dll</HintPath>
     </Reference>
-    <Reference Include="shockwaveflashobjects">
-      <HintPath>C:\Users\Administrator\Downloads\__32-shockwaveflashobjects.dll1.0.0.0\shockwaveflashobjects.dll</HintPath>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
-    </Reference>
     <Reference Include="svt.caspar">
-      <HintPath>C:\Users\Administrator\Downloads\svt.caspar.dll</HintPath>
-    </Reference>
-    <Reference Include="Svt.Network">
-      <HintPath>C:\Program Files (x86)\Doordarshan\CasparMediaPlaybackSetup\Svt.Network.dll</HintPath>
+      <HintPath>D:\software\CMP190722_1\CasparMediaPlayback\bin\x86\Release\svt.caspar.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -159,6 +152,25 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
